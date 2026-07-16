@@ -2,6 +2,8 @@
 
 Telegram bot that automatically comments on posts forwarded from specified channels.
 
+A Telegram bot that automatically comments on posts sent from specified channels. You can add several blocks with information about channels and the bot will comment on posts in these channels.
+
 ## Installation Guide
 
 ### 1. Clone the repository
